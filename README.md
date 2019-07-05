@@ -1,7 +1,6 @@
 # Artificial Neural Network Application in Product Design
 
-Tiltle: Artificial Neural Network Application in Product Design
-        Development of a methodology to train ANN using the users design attributes preferences
+Tiltle: Artificial Neural Network Application in Product Design - Development of a methodology to train ANN using the users design attributes preferences
 
 Category: Machine Learning
 
